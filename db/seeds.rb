@@ -1,0 +1,1 @@
+Post.create(content:"test6")
